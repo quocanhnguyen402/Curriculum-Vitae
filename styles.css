@@ -151,12 +151,13 @@ a {
 .resume_design .resume_right .profile_sec .profile_info .last_name {
     font-size: 26px;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 1000;
 }
 
-.resume_design .resume_right .profile_sec .profile_info .last_name {
+
+/* .resume_design .resume_right .profile_sec .profile_info .last_name {
     font-weight: 900;
-}
+} */
 
 .resume_design .resume_right .profile_sec .profile_info .role {
     margin-top: 10px;
